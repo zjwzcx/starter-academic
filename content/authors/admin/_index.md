@@ -1,17 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiao Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Jenior Undergraduate
+
+Chu-Kochen Honors College
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Zhejiang University
+  url: http://www.zju.edu.cn/
+  url: http://www.caefs.zju.edu.cn/
+  url: http://ckc.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
