@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Test.
+I’m a jenior student in Zhejiang University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
