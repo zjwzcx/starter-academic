@@ -8,7 +8,7 @@ superuser: true
 # Role/position/tagline
 role: Jenior Undergraduate
 
-Chu-Kochen Honors College
+# Chu-Kochen Honors College
 
 # Organizations/Affiliations to show in About widget
 organizations:
