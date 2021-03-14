@@ -8,13 +8,13 @@ superuser: true
 # Role/position/tagline
 role: Jenior Undergraduate
 
-# Chu-Kochen Honors College
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Zhejiang University
   url: http://www.zju.edu.cn/
+- name: College of Biosystems Engineering and Food Science
   url: http://www.caefs.zju.edu.cn/
+- name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,9 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Machine Learning
+- Industrial Process Data-driven Modeling
+- State Estimation
 
 # Education to show in About widget
 education:
@@ -32,7 +32,7 @@ education:
   - course: BSc in Biosystems Engineering
     institution: Zhejiang University
     year: 2018-
-  - course: Science Course of High School
+  - course: Science Competition Class of High School
     institution: Cangnan Middle School，Zhejiang Province
     year: 2015-2018
 
@@ -71,6 +71,16 @@ email: ""
 highlight_name: false
 ---
 
-I’m a jenior student in Zhejiang University.
+I’m a jenior undergraduate student at the Dept. of Control Science & Engineering in Zhejiang University.
+
+ I’ve been advised by professor Chunhui Zhao at State Key Laboratory of Industrial Control, Zhejiang University, where I focus on extracting features from industrial time series with deep neural networks. 
+
+
+
+(Unmodified)I further extend my work in the field of disentangled representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I’m working on a NIPS challenge related to autonomous driving with both time series analysis and representation learning.
+
+I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM).
+
+I am applying for a Ph.D./MS program this fall. You may check in my [CV](https://drive.google.com/file/d/1eolZzPNGJS-zb31B2uaAC3GMhQCTY-Pv/view?usp=sharing) for further information.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
