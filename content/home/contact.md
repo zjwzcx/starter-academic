@@ -18,6 +18,6 @@ design:
   columns: "2"
   background:
     color: "#e41a1a"
-    image: /assets/media/5.jpg
+    image: ""
 ---
 tsseasr
