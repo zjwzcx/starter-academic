@@ -2,18 +2,26 @@
 widget: featurette
 widget_id: RECENT-POSTS
 feature:
-  - description: 90%
-    icon: r-project
+  - description: Pytorch, ROS, numpy, pandas, matplotlib, sklearn, etc.
+	icon: python
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Python
+
+  - description: Including Feature Engineering, Representation Learning, Deep Learning, etc.
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Machine Learning
+
+  - description: Path Planning, Localization, Mapping and Control Algorithm in ROS
+    icon: robot
     icon_pack: fas
-    name: Photography
+    name: Robotics
+
+  - description: Unmodified
+    icon: basketball-ball
+    icon_pack: fas
+    name: Basketball
+
 headless: true
 weight: 30
 title: Skills
@@ -26,4 +34,3 @@ design:
     gradient_end: "234"
     text_color_light: true
 ---
-123421412
