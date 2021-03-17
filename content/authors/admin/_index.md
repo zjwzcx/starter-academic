@@ -12,19 +12,19 @@ role: Jenior Undergraduate
 organizations:
 - name: Zhejiang University
   url: http://www.zju.edu.cn/
-- name: College of Biosystems Engineering and Food Science
+- name: Dept. of Biosystems Engineering
   url: http://www.caefs.zju.edu.cn/
 - name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Statistical Machine Learning, Industrial Process Data-driven Modeling, State Estimation for Robotics.
 
 # Interests to show in About widget
 interests:
 - Statistical Machine Learning
 - Industrial Process Data-driven Modeling
-- State Estimation
+- State Estimation for Robotics
 
 # Education to show in About widget
 education:
@@ -40,16 +40,11 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '3180100449@zju.edu.cn'
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+
+# social:
+# - icon: envelope
 #  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: '3180100449@zju.edu.cn'
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -65,7 +60,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "3180100449@zju.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -77,7 +72,9 @@ I’m a jenior undergraduate student at the Dept. of Control Science & Engineeri
 
 
 
-(Unmodified)I further extend my work in the field of disentangled representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I’m working on a NIPS challenge related to autonomous driving with both time series analysis and representation learning.
+-------------Unmodified-------------
+
+I further extend my work in the field of disentangled representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I’m working on a NIPS challenge related to autonomous driving with both time series analysis and representation learning.
 
 I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM).
 
