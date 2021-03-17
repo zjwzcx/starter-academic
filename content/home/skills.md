@@ -3,7 +3,7 @@ widget: featurette
 widget_id: RECENT-POSTS
 feature:
   - description: Pytorch, ROS, numpy, pandas, matplotlib, sklearn, etc.
-	icon: python
+    icon: python
     icon_pack: fab
     name: Python
 
