@@ -66,7 +66,7 @@ email: "3180100449@zju.edu.cn"
 highlight_name: false
 ---
 
-I’m a jenior undergraduate student at the Dept. of Control Science & Engineering in Zhejiang University.
+I’m a junior undergraduate student at the Dept. of Control Science & Engineering in Zhejiang University.
 
  I’ve been advised by professor Chunhui Zhao at State Key Laboratory of Industrial Control, Zhejiang University, where I focus on extracting features from industrial time series with deep neural networks. 
 
