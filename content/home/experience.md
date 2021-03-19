@@ -21,6 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
   - title: CEO
     company: GenCoin
@@ -36,10 +37,18 @@ experience:
         * Deploying
         
   - title: Professor
-    company: Zhejiang University
+    company: University X
     company_url: ''
     location: California
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: 
+    company: Cangnan Middle School, Zhejiang Province
+    company_url: ''
+    location: Cangnan County, Wenzhou City
+    date_start: '2015-09-01'
+    date_end: '2018-06-31'
+    description: 
 ---
