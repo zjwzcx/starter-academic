@@ -20,4 +20,3 @@ design:
     color: "#e41a1a"
     image: ""
 ---
-tsseasr
