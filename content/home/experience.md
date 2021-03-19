@@ -36,18 +36,18 @@ experience:
         * Deploying
         
   - title: Professor
-    company: University X
+    company: Zhejiang University
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    date_start: '2019-01-01'
+    date_end: '2019-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Professor
-    company: University X
+    company: Zhejiang University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: Cal
+    date_start: '2018-01-01'
+    date_end: '2018-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
