@@ -1,6 +1,19 @@
 ---
 widget: featurette
 widget_id: RECENT-POSTS
+headless: true
+weight: 30
+title: Skills
+subtitle: 
+
+design:
+  columns: "123"
+  background:
+    color: "123"
+    gradient_start: "213"
+    gradient_end: "234"
+    text_color_light: false
+
 feature:
   - description: Pytorch, ROS, numpy, pandas, matplotlib, sklearn, etc.
     icon: python
@@ -22,15 +35,4 @@ feature:
     icon_pack: fas
     name: Basketball
 
-headless: true
-weight: 30
-title: Skills
-subtitle: null
-design:
-  columns: "123"
-  background:
-    color: "123"
-    gradient_start: "213"
-    gradient_end: "234"
-    text_color_light: true
 ---
