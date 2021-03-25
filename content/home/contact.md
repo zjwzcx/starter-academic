@@ -11,12 +11,9 @@ content:
   form:
     provider: netlify
     formspree:
-      ? id
+      id: test
     netlify:
       captcha: false
 design:
   columns: "2"
-  # background:
-  # color: "#e41a1a"
-  # image: ""
 ---
