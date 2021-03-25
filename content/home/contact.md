@@ -16,7 +16,7 @@ content:
       captcha: false
 design:
   columns: "2"
-  background:
-    color: "#e41a1a"
-    image: ""
+  # background:
+  # color: "#e41a1a"
+  # image: ""
 ---
