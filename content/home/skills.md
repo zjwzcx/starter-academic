@@ -15,7 +15,7 @@ design:
     text_color_light: false
 
 feature:
-  - description: Pytorch, ROS, numpy, pandas, matplotlib, sklearn, etc.
+  - description: Pytorch, ROS, numpy, pandas, sklearn, etc.
     icon: python
     icon_pack: fab
     name: Python
