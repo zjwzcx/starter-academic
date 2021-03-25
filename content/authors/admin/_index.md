@@ -66,18 +66,12 @@ email: "3180100449@zju.edu.cn"
 highlight_name: false
 ---
 
-I’m a junior undergraduate student at the Dept. of Control Science & Engineering in Zhejiang University.
+I am a junior undergraduate majoring in Biosystems Engineering.  In my freshman year, I stood out from more than 4,000 Science & Technology students and was elected to Advanced Honor Class of Engineering Education (ACEE), which provides special courses and scientific research training, at Chu-kochen Honors College.
 
- I’ve been advised by professor Chunhui Zhao at State Key Laboratory of Industrial Control, Zhejiang University, where I focus on extracting features from industrial time series with deep neural networks. 
+ I’ve been advised by professor Chunhui Zhao at State Key Laboratory of Industrial Control, Zhejiang University, where I focus on Feature Extraction, Fault Diagnosis and Root Cause Inference from industrial data with Signal Processing and Machine Learning methods like PCA and Deep Neural Networks. 
 
+(I further extend my work in the field of disentangled representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I’m working on a NIPS challenge related to autonomous driving with both time series analysis and representation learning.)
 
-
--------------Unmodified-------------
-
-I further extend my work in the field of disentangled representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I’m working on a NIPS challenge related to autonomous driving with both time series analysis and representation learning.
-
-I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM).
-
-I am applying for a Ph.D./MS program this fall. You may check in my [CV](https://drive.google.com/file/d/1eolZzPNGJS-zb31B2uaAC3GMhQCTY-Pv/view?usp=sharing) for further information.
+I am applying for a Ph.D./MS program this fall. You may check in my [CV](https://drive.google.com/file/d/1Q48-nFLtPLpBuqz1bgU_AOVFD5eoyiQS/view?usp=sharing) for further information.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
