@@ -9,7 +9,7 @@ theme: minimal
 day_night: true
 # font: ''
 font: 'Classic'
-font_size: L
+font_size: M
 
 # SEO
 
