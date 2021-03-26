@@ -1,12 +1,12 @@
 ---
 # widget: experience
-widget: Personal Experience
+widget: experience
 headless: true
 
 # Order that this section appears on the page.
 weight: 80
 
-title: Experience
+title: Personal Experience
 subtitle:
 
 # Date format for experience
