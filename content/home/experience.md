@@ -1,15 +1,11 @@
 ---
 widget: experience
 headless: true
-
-# Order that this section appears on the page.
 weight: 40
 
 title: Experience
 subtitle:
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
@@ -18,12 +14,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Asistant
+    company: Institute of Intelligent Systems and Control, Zhejiang University
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Online research (affected by COVID-19)
+    date_start: '2020-02'
+    date_end: '2020-06'
     description: |2-
         Responsibilities include:
         
@@ -31,19 +27,28 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: Zhejiang University
+  - title: Monitor
+    company: Professional Class, Zhejiang University
     company_url: ''
-    location: California
-    date_start: '2019-01-01'
-    date_end: '2019-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Hangzhou, Zhejiang Province
+    date_start: '2019-2'
+    date_end: '2020-9'
+    description: 
 
-  - title: Professor
-    company: Zhejiang University
+  - title: Point Guard & Captain
+    company: Yunfeng Community, Zhejiang University
     company_url: ''
-    location: Cal
-    date_start: '2018-01-01'
-    date_end: '2018-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Hangzhou, Zhejiang Province
+    date_start: '2018-10'
+    date_end: '2018-12'
+    description: Play as PG in ZJU’s Yunfeng Community Men’s Basketball Game (Captain), 2018 Champion
+
+
+  - title: Undergraduate
+    company: Zhejiang University
+    company_url: 'http://www.zju.edu.cn/'
+    location: Hangzhou, Zhejiang Province
+    date_start: '2018-08'
+    date_end: ''
+    description: I was admitted into Zhejiang University.
 ---
