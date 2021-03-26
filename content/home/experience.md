@@ -28,14 +28,6 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Monitor
-    company: Professional Class, Zhejiang University
-    company_url: ''
-    location: Hangzhou, Zhejiang Province
-    date_start: '2019-2'
-    date_end: '2020-9'
-    description: 
-
 
   - title: Undergraduate
     company: Zhejiang University
