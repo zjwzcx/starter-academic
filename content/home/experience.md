@@ -29,7 +29,23 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
+
+  - title: Monitor
+    company: Professional Class, Zhejiang University
+    company_url: ''
+    location: Hangzhou, Zhejiang Province
+    date_start: '2019-02-01'
+    date_end: '2020-10-01'
+    description: 
+
+  - title: Point Guard & Captain
+    company: Yunfeng Community, Zhejiang University
+    company_url: ''
+    location: Hangzhou, Zhejiang Province
+    date_start: '2018-10-01'
+    date_end: '2018-12-01'
+    description: Play as PG in ZJU’s Yunfeng Community Men’s Basketball Game (Captain), 2018 Champion        
+
   - title: Undergraduate
     company: Zhejiang University
     company_url: 'http://www.zju.edu.cn/'
