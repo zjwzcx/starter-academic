@@ -17,19 +17,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Research Asistant Online (affected by COVID-19)
-    company: Institute of Intelligent Systems and Control, Zhejiang University
-    company_url: ''
-    location: My home in Wenzhou, Zhejiang Province
-    date_start: '2020-02'
-    date_end: '2020-06'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
 
   - title: Undergraduate
     company: Zhejiang University
