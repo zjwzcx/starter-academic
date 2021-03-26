@@ -30,9 +30,21 @@ feature:
     icon_pack: fas
     name: Robotics
 
-  - description: Unmodified
+  - description: Play as PG in ZJU’s Yunfeng Community Men’s Basketball Game (Captain), 2018 Champion
     icon: basketball-ball
     icon_pack: fas
     name: Basketball
 
+  - description: Night running (5km usually) two or three times a week
+    icon: running
+    icon_pack: fas
+    name: Running
+
+  - description: 
+    icon: biking
+    icon_pack: fas
+    name: Biking
 ---
+
+
+
