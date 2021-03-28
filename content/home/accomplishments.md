@@ -19,23 +19,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
+  # certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2020-02-18"
+  description: "Honorable Mentioned"
+  organization: COMAP & MCM/ICM
+  organization_url: https://www.comap.com/undergraduate/contests/
+  title: Mathematical Contest of Modeling
   url: ""
 
-- certificate_url: https://www.edx.org
+- certificate_url:
+  # certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2018-03-01"
-  description: 1st Place, ASABE Agricultural Robot Competition Simulation Contest
+  date_start: "2019-03-01"
+  description: 1st Place (Rank 1)
   organization: zhejiang University
   organization_url: http://www.zju.edu.cn/
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  title: 'ASABE Agricultural Robot Competition Simulation Contest'
+  url: ""
 
 - certificate_url: 
   # certificate_url: https://www.datacamp.com
