@@ -1,6 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Simultaneous Localization and Mapping of Robots Based on Feature Tracking
+
+summary: Ubuntu 18.04, ROS
+
 tags:
 - Robotics1	# correspond with "projects.md"
 # - Planning, Localization and Mapping
@@ -32,6 +34,6 @@ url_video: ""
 slides: example
 ---
 
-Content of project
+Content of Robotics1.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Lalala!
