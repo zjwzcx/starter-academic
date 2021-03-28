@@ -14,8 +14,7 @@ content:
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   
-  # filter_default: 0
-  filter_default: 1
+  filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -26,14 +25,14 @@ content:
   - name: All
     tag: '*'
 
-  - name: Wheeled Mobile Robot
-    tag: Robotics1
+  #- name: Wheeled Mobile Robot
+  #  tag: Robotics1
 
-  - name: Biped Mobile Robot
-    tag: Robotics2
+  #- name: Biped Mobile Robot
+  #  tag: Robotics2
 
-  - name: Data-driven modeling
-    tag: Data-driven modeling
+  #- name: Data-driven modeling
+  #  tag: Data-driven modeling
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
