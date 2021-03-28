@@ -35,7 +35,7 @@ feature:
     icon_pack: fas
     name: Basketball
 
-  - description: Running (5-8km usually) twice a week to exercise and relax
+  - description: Run (5-8km usually) twice a week to exercise and relax
     icon: running
     icon_pack: fas
     name: Running
