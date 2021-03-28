@@ -2,7 +2,7 @@
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
-- Robotics	# correspond with "projects.md"
+- Robotics2	# correspond with "projects.md"
 # - Planning, Localization and Mapping
 
 date: "2016-04-27T00:00:00Z"
@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

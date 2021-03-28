@@ -25,10 +25,10 @@ content:
     tag: '*'
 
   - name: Wheeled Mobile Robot
-    tag: Robotics
+    tag: Robotics1
 
   - name: Biped Mobile Robot
-    tag: Robotics
+    tag: Robotics2
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
