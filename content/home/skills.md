@@ -35,12 +35,12 @@ feature:
     icon_pack: fas
     name: Basketball
 
-  - description: Night running (5km usually) twice a week
+  - description: Running (5-8km usually) twice a week to exercise and relax
     icon: running
     icon_pack: fas
     name: Running
 
-  - description: Enjoying the feeling of wind blowing :)
+  - description: Enjoy the feeling of the wind blowing through my ears :)
     icon: biking
     icon_pack: fas
     name: Biking
