@@ -2,8 +2,8 @@
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
-- Wheeled Mobile Robotics	# correspond with "projects.md"
-- Planning, Localization and Mapping
+- Robotics	# correspond with "projects.md"
+# - Planning, Localization and Mapping
 
 date: "2016-04-27T00:00:00Z"
 
