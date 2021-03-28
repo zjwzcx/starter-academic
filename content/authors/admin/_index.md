@@ -66,9 +66,9 @@ email: "3180100449@zju.edu.cn"
 highlight_name: false
 ---
 
-I am a junior undergraduate majoring in Biosystems Engineering.  In my freshman year, I stood out from more than 4,000 Science & Technology students and was elected to Advanced Honor Class of Engineering Education (ACEE), which provides special courses and scientific research training, at Chu-kochen Honors College.
+I am a junior undergraduate majoring in Biosystems Engineering.  In my freshman year, I was elected to Advanced Honor Class of Engineering Education (40 among 4000+ students majoring in Science and Engineering, providing special courses and scientific research training) at Chu-kochen Honors College.
 
- I’ve been advised by professor Chunhui Zhao at State Key Laboratory of Industrial Control, Zhejiang University, where I focus on Feature Extraction, Fault Diagnosis and Root Cause Inference from industrial data with Signal Processing and Machine Learning methods like PCA and Deep Neural Networks. 
+ I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  at State Key Laboratory of Industrial Control, Zhejiang University, where I focus on Industrial Data-driven Modeling (Feature Extraction, Fault Diagnosis, Root Cause Inference, etc) with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. 
 
 {{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check in my [CV](https://drive.google.com/file/d/1Q48-nFLtPLpBuqz1bgU_AOVFD5eoyiQS/view?usp=sharing) for further information.
 
