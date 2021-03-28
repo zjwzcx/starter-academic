@@ -23,9 +23,11 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Wheeled Robot
-    tag: Deep Learning	# Wheeled Robot
-  - name: Biped Robot
+
+  - name: Wheeled Mobile Robot
+    tag: Wheeled
+
+  - name: Biped Mobile Robot
     tag: Demo
 
 design:
