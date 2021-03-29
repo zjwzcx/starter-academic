@@ -37,3 +37,5 @@ slides: example
 Content of Robotics1.
 
 Lalala!
+
+![img111](C:/Users/63034/Desktop/Typora%20ImagePath/img111.png)
