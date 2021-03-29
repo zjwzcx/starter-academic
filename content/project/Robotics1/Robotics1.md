@@ -44,3 +44,7 @@ image1:
 image2:
 
 ![1](/../1.png)
+
+image3：
+
+![1](1.png)
