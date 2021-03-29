@@ -35,20 +35,10 @@ slides: example
 
 ---
 
-Content of Robotics1.
+以下为实验思路与步骤的简要介绍：
 
-image1:
 
-![1](C:/Users/63034/Desktop/Typora%20ImagePath/1-1616986482507.png)
-
-image2:
-
-![1](/../1.png)
-
-image3：
-
-![1](1.png)
 
 image4：
 
-{{< figure src="1.png" caption="A caption" >}}
+{{< figure src="1.png" caption="图1. 啦啦啦" >}}
