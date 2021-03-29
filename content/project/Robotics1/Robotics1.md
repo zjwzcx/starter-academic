@@ -37,8 +37,10 @@ slides: example
 
 Content of Robotics1.
 
-Lalala
+image1:
 
-![img111](img111.png)
+![1](C:/Users/63034/Desktop/Typora%20ImagePath/1-1616986482507.png)
 
-lololo
+image2:
+
+![1](/../1.png)

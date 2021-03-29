@@ -1,5 +1,5 @@
 ---
-title: Simultaneous Localization and Mapping of Robots Based on Feature Tracking
+title: Data-driven Modeling
 
 summary: Ubuntu 18.04, ROS
 
