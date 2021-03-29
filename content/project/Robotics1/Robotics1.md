@@ -48,3 +48,7 @@ image2:
 image3：
 
 ![1](1.png)
+
+image4：
+
+{{< figure src="1.png" caption="A caption" >}}
