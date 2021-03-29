@@ -32,10 +32,13 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
+
 ---
 
 Content of Robotics1.
 
-Lalala!
+Lalala
 
-![img111](C:/Users/63034/Desktop/Typora%20ImagePath/img111.png)
+![img111](img111.png)
+
+lololo
