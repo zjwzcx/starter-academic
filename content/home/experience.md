@@ -51,7 +51,7 @@ experience:
     date_end: '2020-10-01'
     description: 
 
-  - title: Undergraduate
+  - title: Member of Advanced Honor Class of Engineering Education
     company: Chu-kochen College, Zhejiang University
     company_url: 'http://ckc.zju.edu.cn/'
     location: Hangzhou, Zhejiang Province
