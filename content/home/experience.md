@@ -17,6 +17,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Research Asistant
+    company: State Key Laboratory of Industrial Control Technology
+    company_url: ''
+    location: Hangzhou, Zhejiang Province
+    date_start: '2020-06-01'
+    date_end: ''
+    description: |2-
+        Participate in group meetings and scientific research on industrial data-driven modeling. The main research areas include:
+        
+        * Industrial Fault Moniroring
+		* Cause Root Diagnosis
+        * Soft-sensor
+        
+
   - title: Research Asistant Online (affected by COVID-19)
     company: Institute of Intelligent Systems and Control, Zhejiang University
     company_url: ''
@@ -38,19 +52,11 @@ experience:
     date_end: '2020-10-01'
     description: 
 
-  - title: Point Guard & Captain
-    company: Yunfeng Community, Zhejiang University
-    company_url: ''
-    location: Hangzhou, Zhejiang Province
-    date_start: '2018-10-01'
-    date_end: '2018-12-01'
-    description: Play as PG in ZJU’s Yunfeng Community Men’s Basketball Game (Captain), 2018 Champion        
-
   - title: Undergraduate
-    company: Zhejiang University
-    company_url: 'http://www.zju.edu.cn/'
+    company: Chu-kochen College, Zhejiang University
+    company_url: 'http://ckc.zju.edu.cn/'
     location: Hangzhou, Zhejiang Province
-    date_start: '2018-08-01'
+    date_start: '2019-04-01'
     date_end: ''
-    description: I was admitted into Zhejiang University.
+    description: I was selected into Advanced Honor Class of Engineering Education(40 among 4000+ students majoring in Science and Engineering), Chu-kochen College.
 ---
