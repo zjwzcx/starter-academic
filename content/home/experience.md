@@ -25,9 +25,8 @@ experience:
     date_end: ''
     description: |2-
         Participate in group meetings and scientific research on industrial data-driven modeling. The main research areas include:
-        
         * Industrial Fault Moniroring
-		* Cause Root Diagnosis
+        * Cause Root Diagnosis
         * Soft-sensor
         
 
