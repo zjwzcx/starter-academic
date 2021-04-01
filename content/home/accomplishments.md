@@ -20,6 +20,26 @@ date_format: Jan 2006
 
 item:
 - certificate_url: 
+  # certificate_url: 
+  date_end: ""
+  date_start: "2021-03-01"
+  description: "1st Prize"
+  organization: Zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: '17th Challenge Cup Extracurricular Academic Works Competition'
+  url: ""
+
+- certificate_url: 
+  # certificate_url: 
+  date_end: ""
+  date_start: "2020-11-01"
+  description: "3st Prize"
+  organization: Zhejiang University
+  organization_url: http://www.cms.org.cn/
+  title: '12th National College Student Mathematics Competition'
+  url: ""
+
+- certificate_url: 
   # certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2020-02-18"
@@ -33,7 +53,7 @@ item:
   # certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2019-03-01"
-  description: 1st Place (Rank 1)
+  description: 1st Place (Rank 1), mainly responsible for the programming(tracking and execution mechanism) and mechanism design
   organization: zhejiang University
   organization_url: http://www.zju.edu.cn/
   title: 'ASABE Agricultural Robot Competition Simulation Contest'
