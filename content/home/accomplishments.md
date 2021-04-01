@@ -53,7 +53,8 @@ item:
   # certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2019-03-01"
-  description: 1st Place (Rank 1), mainly responsible for the programming(tracking and execution mechanism) and mechanism design
+  description: 1st Place (Rank 1)
+  # mainly responsible for the programming(tracking and execution mechanism) and mechanism design
   organization: zhejiang University
   organization_url: http://www.zju.edu.cn/
   title: 'ASABE Agricultural Robot Competition Simulation Contest'
