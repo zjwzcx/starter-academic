@@ -17,18 +17,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Research Asistant
-    company: State Key Laboratory of Industrial Control Technology
-    company_url: ''
-    location: Hangzhou, Zhejiang Province
-    date_start: '2020-06-01'
-    date_end: ''
-    description: |2-
-        Participate in group meetings and scientific research on industrial data-driven modeling. The main research areas include:
-        
-        * Industrial Fault Moniroring
-		* Cause Root Diagnosis
-        * Soft-sensor
+
         
 
   - title: Research Asistant Online (affected by COVID-19)
