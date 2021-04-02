@@ -61,13 +61,14 @@ lololo
 
 {{< figure src="icon.png" caption="图2. 啦啦啦" >}}
 
-{{<video src="/slam-new.mp4" width="320" height="240" controls=controls" >}}
+{{<video src="slam-new.mp4" width="320" height="240" controls=controls" >}}
 
 
 
 lalala 123/
 
-{{<video src="slam-new.mp4" width="320" height="240" controls=controls" >}}
+<video width="320" height="240" controls="controls">
+  <source src="slam.mp4" type="video/mp4">
 
 leileil
 
@@ -75,5 +76,5 @@ leileil
 
 lalala
 
-<video src="../../../media/slam.mp4" width="320" height="240" controls="controls"></video>
+<video src="../../../assets/media/slam.mp4" width="320" height="240" controls="controls"></video>
 
