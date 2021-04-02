@@ -1,5 +1,5 @@
 ---
-title: Six-axis
+title: High-precision DH Calibration and Motion Control of Six-axis Mechanical Arm
 
 summary: Ubuntu 18.04, ROS
 
@@ -34,6 +34,8 @@ url_video: ""
 slides: example
 ---
 
-Content of Robotics2.
+**Adviser:** [Chunlin Zhou](https://person.zju.edu.cn/c_zhou), Associate Professor of Institute of Intelligent Systems and Control, Zhejiang University                                                
 
-Hahaha!
+- **Geometric Parameter Estimation:** A binocular camera is     used to record the dynamic position of the marker on the end-effector, and     the parameters are estimated by the plane arc constraint and the least     square method.
+- **DH Table Correction:** The correction parameter β is used to correct the misalignment DH     table of parallel continuous joints, and the DH parameter is used for Inverse     Kinematics calculation.
+- **Motion Control:** Interpolate     the joint angle sequence to achieve more stable and accurate Forward Kinematics     control
