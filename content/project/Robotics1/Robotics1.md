@@ -55,20 +55,12 @@ image_example：
 
 {{< figure src="1.png" caption="图1. 啦啦啦" >}}
 
-{{< video src="slam-new.mp4" caption="EKF-SLAM" >}}
-
-lololo
-
-{{<video src="slam-new.mp4" width="320" height="240" controls="controls">}}
-
-
-
-```
-
-```
-
 lalala
 
 
 
-{{<video src="slam-new.mp4" width="320" height="240" controls="controls”>}}
+lalala 123
+
+{{< video src="slam-new.mp4" caption="EKF-SLAM" >}}
+
+lololo
