@@ -57,4 +57,3 @@ image_example：
 
 
 
-{{< figure src="slam-new.mp4" caption="EKF-SLAM" >}}
