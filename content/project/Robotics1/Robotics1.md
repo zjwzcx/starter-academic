@@ -35,10 +35,26 @@ slides: example
 
 ---
 
-以下为实验思路与步骤的简要介绍：
+在本段科研训练中，我的工作是在给定移动机器人结构模型与环境地图的前提下，进行算法的落地与优化。我的实验环境为$Ubuntu18.04$与$ROS$，使用编程语言为$Python$。由于COVID-19的影响，我的实验均为基于仿真环境的线上仿真实验。
+
+我的主要工作包括：
+
+1）导航。设计了移动机器人平稳运动的运动控制律，生成基于A*算法的最优的全局路径规划与基于Dynamic Window Apprroach，并实现导航。
+
+2）定位。
+
+3）基于特征的EKF-SLAM。
 
 
 
-image4：
+其中，
+
+
+
+image_example：
 
 {{< figure src="1.png" caption="图1. 啦啦啦" >}}
+
+
+
+{{< figure src="slam-new.mp4" caption="EKF-SLAM" >}}
