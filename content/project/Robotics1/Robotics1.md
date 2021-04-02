@@ -71,5 +71,9 @@ lalala 123/
 
 leileil
 
-<video src="../../../assets/media/slam.mp4" width="320" height="240" controls="controls"></video>
+<video src="../../../media/slam.mp4" width="320" height="240" controls="controls">
+
+
+
+<video src="../../../media/slam.mp4" width="320" height="240" controls="controls"></video>
 
