@@ -39,7 +39,7 @@ slides: example
 
 我的主要工作包括：
 
-1）导航。设计了移动机器人平稳运动的运动控制律，生成基于A*算法的最优的全局路径规划与基于Dynamic Window Apprroach，并实现导航。
+1）导航。设计了移动机器人平稳运动的运动控制律，生成基于A*算法的最优的全局路径规划与基于DWA算法的局部路径规划，并实现导航。
 
 2）定位。
 
@@ -47,7 +47,9 @@ slides: example
 
 
 
-其中，
+对于3），我的简要实验思路与步骤如下：
+
+
 
 
 
@@ -57,6 +59,6 @@ image_example：
 
 
 
-lololo
+最终得到SLAM结果如下：
 
 {{< video src="slam.mp4" width="320" height="240" controls=controls" >}}
