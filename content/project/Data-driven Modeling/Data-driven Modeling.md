@@ -1,5 +1,5 @@
 ---
-title: Data-driven Modeling
+title: Soft-sensoring on the Flow and Online Fault Monitoring for Slurry Pump
 
 summary: Ubuntu 18.04, ROS
 
@@ -34,6 +34,8 @@ url_video: ""
 slides: example
 ---
 
-Content of Robotics1.
+**Adviser:** [Chunhui Zhao](https://person.zju.edu.cn/chhzhao), Professor of State Key Laboratory of Industrial Control Technology, Zhejiang University                                            
 
-Lalala!
+- **Data processing:** Perform data     analysis (correlation analysis, production batch division, etc.) on the     raw data of sensors in the industrial filed, filter out abnormal data and reconstruct     the data through Median Filtering, Double-blind Denoising Autoencoder and     other methods.
+- **Flow Soft-sensoring:** Use     process variables such as pressure to perform multiple regression on flow,     compare and improve the performance of Random Forest, XGBoost, LSTM and     other methods used in industrial fields.
+- **Online Fault Monitoring:** Based on the offline data including the fault, the fault monitoring     sensitivity test is carried out on the dynamic PCA, dynamic SFA, Autoencoder, etc. After selecting the best method     PCA, the comprehensive statistical index φ of T2 and SPE statistics is introduced for     online fault monitoring.
