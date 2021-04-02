@@ -55,8 +55,6 @@ image_example：
 
 {{< figure src="1.png" caption="图1. 啦啦啦" >}}
 
-{{< img src="1.png" caption="图2. 啦啦啦" >}}
-
 {{< video src="slam-new.mp4" caption="EKF-SLAM" >}}
 
 lololo
