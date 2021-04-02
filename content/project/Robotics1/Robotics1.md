@@ -67,14 +67,15 @@ lololo
 
 lalala 123/
 
-<video width="320" height="240" controls="controls">
-  <source src="slam.mp4" type="video/mp4">
-
-leileil
-
-<video src="../../../media/slam.mp4" width="320" height="240" controls="controls">
+{{<source src="slam.mp4" width="320" height="240" controls="controls" type="video/mp4"}}
 
 lalala
 
 <video src="../../../assets/media/slam.mp4" width="320" height="240" controls="controls"></video>
 
+lololo
+
+
+
+<video width="320" height="240" controls="controls">
+  <source src="slam.mp4" type="video/mp4">
