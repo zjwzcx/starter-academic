@@ -61,15 +61,15 @@ lalala
 
 lololo
 
-{{<video src="slam-new.mp4" width="320" height="240" controls="controls">}}
+{{<video src="slam-new.mp4" width="320" height="240" controls="controls" >}}
 
 
 
 lalala 123/
 
-{{<video src="slam-new.mp4" width="320" height="240" controls="controls”>}}
+{{<video src="slam-new.mp4" width="320" height="240" controls=controls" >}}
 
 leileil
 
-<video src="slam-new.mp4" width="320" height="240" controls="controls”></video>
+<video src="slam-new.mp4" width="320" height="240" controls="controls"></video>
 
