@@ -67,7 +67,7 @@ lololo
 
 lalala 123/
 
-{{<video src="slam.mp4" width="320" height="240" controls="controls" type="video/mp4"}}
+{{<video src="slam.mp4" width="320" height="240" controls="controls" }}
 
 lalala
 
