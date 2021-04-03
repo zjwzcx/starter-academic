@@ -22,9 +22,10 @@ bio: My research interests include Statistical Machine Learning, Industrial Proc
 
 # Interests to show in About widget
 interests:
-- Statistical Machine Learning
-- Industrial Process Data-driven Modeling
-- State Estimation for Robotics
+- Data-driven Modeling
+- Robotics
+- Systems and Control
+- Machine Learning
 
 # Education to show in About widget
 education:
