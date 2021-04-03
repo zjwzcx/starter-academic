@@ -30,18 +30,18 @@ experience:
         * Soft-sensor
         
 
-  - title: Research Asistant Online (affected by COVID-19)
+  - title: Research Asistant (Online, affected by COVID-19)
     company: Institute of Intelligent Systems and Control, Zhejiang University
     company_url: ''
     location: My home in Wenzhou, Zhejiang Province
     date_start: '2020-02-01'
     date_end: '2020-06-01'
     description: |2-
-        Responsibilities include:
+        To desing a mobile robot with SLAM function, my works focus on:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Navigation
+        * Localization (Position & Pose Estimation)
+        * EKF-SLAM
 
   - title: Monitor
     company: Professional Class, Zhejiang University
