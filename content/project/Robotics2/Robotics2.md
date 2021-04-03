@@ -39,3 +39,13 @@ slides: example
 - **Geometric Parameter Estimation:** A binocular camera is     used to record the dynamic position of the marker on the end-effector, and     the parameters are estimated by the plane arc constraint and the least     square method.
 - **DH Table Correction:** The correction parameter β is used to correct the misalignment DH     table of parallel continuous joints, and the DH parameter is used for Inverse     Kinematics calculation.
 - **Motion Control:** Interpolate     the joint angle sequence to achieve more stable and accurate Forward Kinematics     control
+
+
+
+
+
+{{< video src="1.mp4" width="320" height="240" controls=controls" >}}
+
+{{< video src="2.mp4" width="320" height="240" controls=controls" >}}
+
+{{< video src="3.mp4" width="320" height="240" controls=controls" >}}
