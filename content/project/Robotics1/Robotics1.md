@@ -56,21 +56,17 @@ slides: example
 - 基于EKF框架，对里程计运动模型和观测模型结果进行最优估计
 - 基于EKF框架，对里程计运动模型和特征匹配模型结果进行最优估计
 
+{{< figure src="rob1.png" caption="图1. 后三种位姿估计方法的耗时记录" >}}
+
 
 
 3）基于特征的EKF-SLAM。
 
 
 
-对于3），我的简要实验思路与步骤如下：
 
 
 
-
-
-image_example：
-
-{{< figure src="1.png" caption="图1. 啦啦啦" >}}
 
 
 
