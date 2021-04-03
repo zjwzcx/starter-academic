@@ -62,11 +62,13 @@ slides: example
 
 以下为部分实验结果：
 
-{{< figure src="rob1.png" caption="图1. 后三种位姿估计方法的耗时记录" >}}
+
+
+{{< figure src="rob2.png" caption="图1. 红、蓝、绿色箭头依次表示后三种估计方法的位置估计结果" >}}
 
 
 
-{{< figure src="rob2.png" caption="图2. 红、蓝、绿色箭头依次表示后三种估计方法的位置估计结果" >}}
+{{< figure src="rob3.png" caption="图2. 主要模型方法的耗时记录" >}}
 
 
 
