@@ -1,13 +1,13 @@
 ---
 title: High-precision DH Calibration and Motion Control of Six-axis Mechanical Arm
 
-summary: Ubuntu 18.04, ROS
+summary: Ubuntu 18.04, ROS, MATLAB, Python
 
 tags:
 - Robotics1	# correspond with "projects.md"
 # - Planning, Localization and Mapping
 
-date: "2016-04-27T00:00:00Z"
+date: "2020-11-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
