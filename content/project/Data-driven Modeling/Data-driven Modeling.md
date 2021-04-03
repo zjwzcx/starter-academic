@@ -1,7 +1,7 @@
 ---
 title: Soft-sensoring on the Flow and Online Fault Monitoring for Slurry Pump
 
-summary: Ubuntu 18.04, ROS
+summary: Python (numpy, pandas, Pytorch, etc.)
 
 tags:
 - Robotics1	# correspond with "projects.md"
