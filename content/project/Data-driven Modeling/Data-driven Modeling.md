@@ -30,10 +30,12 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: example                       
 ---
 
-**Adviser:** [Chunhui Zhao](https://person.zju.edu.cn/chhzhao), Professor of State Key Laboratory of Industrial Control Technology, Zhejiang University                                            
+**指导老师:**
+
+[赵春晖](https://person.zju.edu.cn/chhzhao)，教授，博士生导师，浙江大学工业控制技术国家重点实验室
 
 - **Data processing:** Perform data     analysis (correlation analysis, production batch division, etc.) on the     raw data of sensors in the industrial filed, filter out abnormal data and reconstruct     the data through Median Filtering, Double-blind Denoising Autoencoder and     other methods.
 - **Flow Soft-sensoring:** Use     process variables such as pressure to perform multiple regression on flow,     compare and improve the performance of Random Forest, XGBoost, LSTM and     other methods used in industrial fields.
