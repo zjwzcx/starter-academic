@@ -2,7 +2,7 @@
 widget: featurette
 widget_id: RECENT-POSTS
 headless: true
-weight: 30
+weight: 200
 title: Skills
 subtitle: 
 
