@@ -4,7 +4,7 @@ title: Soft-sensoring on the Flow and Online Fault Monitoring for Slurry Pump
 summary: Python (numpy, pandas, Pytorch, etc.)
 
 tags:
-- Robotics1	# correspond with "projects.md"
+- Robotics	# correspond with "projects.md"
 # - Planning, Localization and Mapping
 
 date: "2016-04-27T00:00:00Z"
