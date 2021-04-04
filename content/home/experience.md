@@ -18,7 +18,7 @@ date_format: Jan 2006
 
 experience:
   - title: Research Asistant
-    company: State Key Laboratory of Industrial Control Technology
+    company: State Key Laboratory of Industrial Control Technology, Zhejiang University
     company_url: ''
     location: Hangzhou, Zhejiang Province
     date_start: '2020-06-01'
