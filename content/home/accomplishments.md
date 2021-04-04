@@ -39,15 +39,14 @@ item:
   title: '12th National College Student Mathematics Competition'
   url: ""
 
-- certificate_url: 
-  # certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2020-02-18"
-  description: "Honorable Mentioned"
-  organization: COMAP & MCM/ICM
-  organization_url: https://www.comap.com/undergraduate/contests/
-  title: Mathematical Contest of Modeling
-  url: ""
+#- certificate_url: 
+#  date_end: ""
+#  date_start: "2020-02-18"
+#  description: "Honorable Mentioned"
+#  organization: COMAP & MCM/ICM
+#  organization_url: #https://www.comap.com/undergraduate/contests/
+#  title: Mathematical Contest of Modeling
+#  url: ""
 
 - certificate_url:
   # certificate_url: https://www.edx.org
