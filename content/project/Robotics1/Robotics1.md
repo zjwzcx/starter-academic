@@ -4,7 +4,7 @@ title: Simultaneous Localization and Mapping of Robots Based on Feature Tracking
 summary: Ubuntu 16.04, ROS, Python
 
 tags:
-- Robotics1	# correspond with "projects.md"
+- Robotics	# correspond with "projects.md"
 # - Planning, Localization and Mapping
 
 date: "2016-04-27T00:00:00Z"
