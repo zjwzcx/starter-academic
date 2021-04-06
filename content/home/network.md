@@ -16,15 +16,10 @@ subtitle:
 
 {{< figure src="major2.png" caption="图4. 课程体系"  display="block" text-align="center">}}
 
-{{< figure src="major2.png" caption="图5. 课程体系"  display="block" margin="150px auto">}}
+{{< figure src="major2.png" caption="图5. 课程体系"  margin="150px auto">}}
 
-{{< figure src="major2.png" caption="图5. 课程体系"  display="block" style="margin: 0 auto;">}}
+{{< figure src="major2.png" caption="图6. 课程体系"  display="block" margin="150px auto">}}
 
-```
+{{< figure src="major2.png" caption="图7. 课程体系"  style="margin: 50 auto;">}}
 
-```
-
-```
-
-
-```
+{{< figure src="major2.png" caption="图8. 课程体系"  display="block" style="margin: 50 auto;">}}
