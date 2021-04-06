@@ -3,7 +3,7 @@ widget: featurette
 widget_id: RECENT-POSTS
 headless: true
 weight: 220
-title: Skills
+title: Curriculum Structure
 subtitle: 
 
 design:
@@ -14,11 +14,6 @@ design:
     gradient_end: "234"
     text_color_light: false
 
-feature:
-  - description: Pytorch, ROS, numpy, pandas, sklearn, etc.
-    icon: python
-    icon_pack: fab
-    name: Python
 ---
 
 
