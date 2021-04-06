@@ -14,7 +14,11 @@ subtitle:
 
 {{< figure src="major2.png" caption="图3. 课程体系"  text-align="center">}}
 
-```
-;
+{{< figure src="major2.png" caption="图3. 课程体系"  display="block" text-align="center">}}
+
+{{< figure src="major2.png" caption="图3. 课程体系"  display="block" margin="150px auto">}}
+
 ```
 
+margin:150px auto;
+```
