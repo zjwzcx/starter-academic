@@ -2,10 +2,10 @@
 widget: accomplishments
 widget_id: RECENT-POSTS
 headless: true
-weight: 220
+weight: 48
 title: Curriculum Structure
 subtitle: 
 
 ---
 
-{{< figure src="major2.png" caption="图1. 课程体系"  align="center">}}
+{{< figure src="major2.png" caption="图1. 修读课程体系"  align="center">}}
