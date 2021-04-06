@@ -43,12 +43,20 @@ experience:
         * Localization (Position & Pose Estimation)
         * EKF-SLAM
 
-  - title: Monitor
-    company: Professional Class, Zhejiang University
+  - title: Monitor of Professional Class
+    company: Department of Biosystems Engineering, Zhejiang University
     company_url: ''
     location: Hangzhou, Zhejiang Province
     date_start: '2019-02-01'
     date_end: '2020-10-01'
+    description: 
+
+  - title: Class Committee of Advanced Honor Class of Engineering Education
+    company: Chu-kochen College, Zhejiang University
+    company_url: ''
+    location: Hangzhou, Zhejiang Province
+    date_start: '2019-04-01'
+    date_end: '2020-09-01'
     description: 
 
   - title: Member of Advanced Honor Class of Engineering Education
