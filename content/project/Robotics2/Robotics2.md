@@ -72,6 +72,6 @@ slides: example
 
 
 
-（彩蛋）尝试用图形化编程对NAO机器人编舞：
+实验间隙，尝试用图形化编程对NAO机器人编舞：
 
 {{< video src="1.mp4" width="320" height="240" controls=controls" >}}
