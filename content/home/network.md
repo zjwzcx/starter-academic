@@ -18,4 +18,6 @@ design:
 
 
 
-{{< figure src="rob3.png" caption="图3. 主要模型方法的耗时记录" >}}
+{{< figure src="major1.png" caption="图1. 生物系统工程课程体系" >}}
+
+{{< figure src="major1.png" caption="图2. 生物系统工程课程体系" >}}
