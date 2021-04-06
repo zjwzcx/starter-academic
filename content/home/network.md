@@ -2,7 +2,7 @@
 widget: featurette
 widget_id: RECENT-POSTS
 headless: true
-weight: 200
+weight: 220
 title: Skills
 subtitle: 
 
@@ -19,8 +19,6 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-
- {{< figure src="rob3.png" caption="图2. 主要模型方法的耗时记录" >}}
 ---
 
 
