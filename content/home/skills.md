@@ -12,7 +12,6 @@ design:
     color: "123"
     gradient_start: "213"
     gradient_end: "234"
-    text_color_light: false
 
 feature:
   - description: Pytorch, ROS, numpy, pandas, sklearn, etc.

@@ -8,4 +8,4 @@ subtitle:
 
 ---
 
-{{< figure src="major2.png" caption="图1. 课程体系" >}}
+​								{{< figure src="major2.png" caption="图1. 课程体系" >}}
