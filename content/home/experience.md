@@ -43,6 +43,14 @@ experience:
         * Localization (Position & Pose Estimation)
         * EKF-SLAM
 
+  - title: Interpreter of the School History Museum and Science and Technology Museum
+    company: Qiushi Culture Promotion Team, Zhejiang University
+    company_url: ''
+    location: Hangzhou, Zhejiang Province
+    date_start: '2019-09-01'
+    date_end: ''
+    description: I feel very honored to be an interpreter(No.453) of the School History Museum and Science and Technology Museum of Zhejiang University.
+
   - title: Monitor of Professional Class
     company: Department of Biosystems Engineering, Zhejiang University
     company_url: ''
