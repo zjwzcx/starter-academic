@@ -58,6 +58,7 @@ experience:
     date_start: '2019-02-01'
     date_end: '2020-10-01'
     description: 
+	url: 'www.baidu.com'
 
   - title: Class Committee of Advanced Honor Class of Engineering Education
     company: Chu-kochen College, Zhejiang University
