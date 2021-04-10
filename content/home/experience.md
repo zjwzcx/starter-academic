@@ -49,7 +49,7 @@ experience:
     location: Hangzhou, Zhejiang Province
     date_start: '2019-09-01'
     date_end: ''
-    description: I feel very honored to be an interpreter(No.453) of the School History Museum and Science and Technology Museum of Zhejiang University.
+    description: I feel very honored to be an interpreter(No.453) of the School History Museum and Science and Technology Museum of Zhejiang University. I have introduced the history and achievements of Zhejiang University to freshmen and visiting scholars.
 
   - title: Monitor of Professional Class
     company: Department of Biosystems Engineering, Zhejiang University
@@ -58,7 +58,6 @@ experience:
     date_start: '2019-02-01'
     date_end: '2020-10-01'
     description: 
-	url: 'www.baidu.com'
 
   - title: Class Committee of Advanced Honor Class of Engineering Education
     company: Chu-kochen College, Zhejiang University
