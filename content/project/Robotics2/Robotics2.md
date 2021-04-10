@@ -1,5 +1,5 @@
 ---
-title: High-precision DH Calibration and Motion Control of Six-axis Mechanical Arm
+title: High-precision DH Calibration and Motion Control of Six-axis Mechanical Arm with Parallel Continuous Joints
 
 summary: Ubuntu 18.04, ROS, MATLAB, Python
 
