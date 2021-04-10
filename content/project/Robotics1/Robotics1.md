@@ -1,7 +1,7 @@
 ---
 title: Simultaneous Localization and Mapping of Robots Based on Feature Tracking
 
-summary: Ubuntu 16.04, ROS, Python
+summary: Ubuntu 16.04, ROS（Gazebo, Rviz), Python
 
 tags:
 - Robotics	# correspond with "projects.md"
