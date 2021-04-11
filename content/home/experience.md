@@ -61,7 +61,7 @@ experience:
 
   - title: Class Committee of Advanced Honor Class of Engineering Education
     company: Chu-kochen College, Zhejiang University
-    company_url: ''
+    company_url: 'http://ckc.zju.edu.cn/'
     location: Hangzhou, Zhejiang Province
     date_start: '2019-04-01'
     date_end: '2020-09-01'
