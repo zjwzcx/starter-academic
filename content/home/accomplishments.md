@@ -33,7 +33,7 @@ item:
   # certificate_url: 
   date_end: ""
   date_start: "2020-11-01"
-  description: "3st Prize"
+  description: "3rd Prize"
   organization: Zhejiang University
   organization_url: http://www.cms.org.cn/
   title: '12th National College Student Mathematics Competition'

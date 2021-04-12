@@ -60,7 +60,7 @@ experience:
     description: 
 
   - title: Class Committee of Advanced Honor Class of Engineering Education
-    company: Chu-kochen College, Zhejiang University
+    company: Chu-Kochen College, Zhejiang University
     company_url: 'http://ckc.zju.edu.cn/'
     location: Hangzhou, Zhejiang Province
     date_start: '2019-04-01'
@@ -68,10 +68,10 @@ experience:
     description: 
 
   - title: Member of Advanced Honor Class of Engineering Education
-    company: Chu-kochen College, Zhejiang University
+    company: Chu-Kochen College, Zhejiang University
     company_url: 'http://ckc.zju.edu.cn/'
     location: Hangzhou, Zhejiang Province
     date_start: '2019-04-01'
     date_end: ''
-    description: I was selected into Advanced Honor Class of Engineering Education(40 among 4000+ students majoring in Science and Engineering), Chu-kochen College.
+    description: I was selected into Advanced Honor Class of Engineering Education(40 among 4000+ students majoring in Science and Engineering), Chu-Kochen College.
 ---
