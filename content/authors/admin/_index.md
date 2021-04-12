@@ -6,7 +6,7 @@ title: Xiao Chen
 superuser: true
 
 # Role/position/tagline
-role: Jenior Undergraduate
+role: Junior Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
