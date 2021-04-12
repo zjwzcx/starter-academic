@@ -17,7 +17,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Research Asistant
+  - title: Research Assistant
     company: State Key Laboratory of Industrial Control Technology, Zhejiang University
     company_url: ''
     location: Hangzhou, Zhejiang Province
@@ -30,7 +30,7 @@ experience:
         * Soft-sensor
         
 
-  - title: Research Asistant (Online, affected by COVID-19)
+  - title: Research Assistant (Online, affected by COVID-19)
     company: Institute of Intelligent Systems and Control, Zhejiang University
     company_url: ''
     location: My home in Wenzhou, Zhejiang Province
