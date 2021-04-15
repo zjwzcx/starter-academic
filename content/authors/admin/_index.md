@@ -8,7 +8,6 @@ superuser: true
 # Role/position/tagline
 role: Junior Undergraduate
 
-# Organizations/Affiliations to show in About widget
 organizations:
 - name: Zhejiang University
   url: http://www.zju.edu.cn/
@@ -17,23 +16,20 @@ organizations:
 - name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical Machine Learning, Industrial Process Data-driven Modeling, State Estimation for Robotics.
+bio: My research interests include Data-Driven Modeling, Robotics, Machine Learning, Cyber-Physical Systems.
 
-# Interests to show in About widget
 interests:
-- Data-driven Modeling
+- Data-Driven Modeling
 - Robotics
-- Systems and Control
 - Machine Learning
+- Cyber-Physical Systems
 
-# Education to show in About widget
 education:
   courses:
   - course: BSc in Biosystems Engineering
     institution: Zhejiang University
     year: 2018-
-  - course: Science Competition Class of High School
+  - course: Science Development Class
     institution: Cangnan Middle School，Zhejiang Province
     year: 2015-2018
 
