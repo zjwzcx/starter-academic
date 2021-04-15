@@ -24,7 +24,7 @@ feature:
     icon_pack: fas
     name: Machine Learning
 
-  - description: Path Planning, Localization, Mapping and Control Algorithm in ROS
+  - description: Navigation, Localization, Mapping and Control Algorithm in ROS
     icon: robot
     icon_pack: fas
     name: Robotics
