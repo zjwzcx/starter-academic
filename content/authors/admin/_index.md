@@ -67,5 +67,5 @@ I am a junior undergraduate majoring in Biosystems Engineering.  In my freshman 
 
  I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  at State Key Laboratory of Industrial Control, Zhejiang University, where I focus on Industrial Data-driven Modeling (Feature Extraction, Fault Diagnosis, Root Cause Inference, etc) with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. 
 
-{{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check my [CV](https://drive.google.com/file/d/1su2CUqJPj_-cB7D_r8x4BCuejtvqIdfP/view?usp=sharing) for further information.
+{{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check my [CV](https://drive.google.com/file/d/1Ygs_rIWwsf6-iRE9RDvacu_YyZtWaGwR/view?usp=sharing) for further information.
 
