@@ -19,10 +19,10 @@ organizations:
 bio: My research interests include Data-Driven Modeling, Robotics, Machine Learning, Cyber-Physical Systems.
 
 interests:
-- Data-Driven Modeling
 - Robotics
+- Data-Driven Modeling
 - Machine Learning
-- Cyber-Physical Systems
+- Autonomous Driving
 
 education:
   courses:
