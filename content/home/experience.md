@@ -49,7 +49,7 @@ experience:
     location: Hangzhou, Zhejiang Province
     date_start: '2020-10-01'
     date_end: ''
-    description: CC98 is the BBS of Zhejiang University, which has about 20k daily active users and is very popular among teachers and students. I am mainly responsible for the management of the intern part-time sector since 2020.
+    description: CC98 is the BBS of Zhejiang University, which has about 20k daily active users and is very popular among teachers and students. I am mainly responsible for the management of the sector about internship and part-time jobs since 2020.
 
   - title: Interpreter of the School History Museum and Science and Technology Museum
     company: Qiushi Culture Promotion Team, Zhejiang University
