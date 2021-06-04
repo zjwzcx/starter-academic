@@ -21,7 +21,7 @@ bio: My research interests include Data-Driven Modeling, Representation Learning
 interests:
 - Data-Driven Modeling
 - Representation Learning
-- Perception of Robotics & Autonomous Driving
+- Perception of Robotics & Autonomous Vehicles
 - Cyber-Physical Systems
 
 
