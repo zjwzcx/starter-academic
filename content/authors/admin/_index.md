@@ -16,13 +16,12 @@ organizations:
 - name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/
 
-bio: My research interests include Data-Driven Modeling, Representation Learning, Robotics, Autonomous Driving,  Cyber-Physical Systems.
+bio: My research interests include Data-Driven Modeling, Representation Learning, Perception of Robotics & Autonomous Driving,  Cyber-Physical Systems.
 
 interests:
 - Data-Driven Modeling
 - Representation Learning
-- Robotics
-- Autonomous Driving
+- Perception of Robotics & Autonomous Driving
 - Cyber-Physical Systems
 
 
