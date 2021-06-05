@@ -68,5 +68,5 @@ I’m CHEN Xiao, currently a junior undergraduate at [Zhejiang University](https
 
  I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Industrial Data-driven Modeling**, **Representation Learning** and **Multi-modal industrial sensing fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include Soft-sensing, Fault Diagnosis and Root Cause Inference, etc.
 
-{{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check my [CV](https://drive.google.com/file/d/1Om-XtAS3GGrltOgiZWZkLDAVJ7yBNpN3/view?usp=sharing) for further information.
+{{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check my [CV](https://drive.google.com/file/d/1Y39QXHeyUXA4Vvso444q_0B2jlTET981/view?usp=sharing) for further information.
 
