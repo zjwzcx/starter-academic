@@ -75,6 +75,8 @@ slides: example
 
 针对过程变量会出现上述**脉冲噪声**的特点，对正常运行数据段作**中值滤波**进行去噪。经试验，取中值滤波邻域窗口长度为7时，正常运行数据段无脉冲噪声。之后，再对正常运行数据段作归一化处理。
 
+{{< figure src="data0.jpg" caption="图1. 部分原始数据分布" >}}
+
 
 
 **测试数据获取（含故障数据段）**:
@@ -93,7 +95,7 @@ slides: example
 
 
 
-{{< figure src="data1.png" caption="图1. 主要模型方法的耗时记录" >}}
+{{< figure src="data1.png" caption="图2. 主要模型方法的耗时记录" >}}
 
 
 
@@ -123,4 +125,4 @@ slides: example
 
 
 
-{{< figure src="data2.png" caption="图2. 主要模型方法的性能比较" >}}
+{{< figure src="data2.png" caption="图3. 主要模型方法的性能比较" >}}
