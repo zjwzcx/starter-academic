@@ -27,7 +27,7 @@ experience:
         Participate in group meetings and scientific research on industrial data-driven modeling. The main research areas include:
         * Industrial Fault Monitoring
         * Cause Root Diagnosis
-        * Soft-sensor
+        * Soft-sensing
         
 
   - title: Research Assistant (Online, affected by COVID-19)
