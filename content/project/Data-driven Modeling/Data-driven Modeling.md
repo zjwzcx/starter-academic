@@ -1,5 +1,5 @@
 ---
-title: Soft-sensing Modeling on the Flow and Online Fault Monitoring for Slurry Pump
+title: Soft-sensing Modeling on the Flow and Online Fault Monitoring for Industrial Process
 
 summary: Python (numpy, pandas, Pytorch, etc.)
 
