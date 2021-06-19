@@ -42,7 +42,7 @@ item:
 - certificate_url: 
   date_end: "2020-02-14"
   date_start: "2020-02-18"
-  description: "Honorable Mention(Top 26%)"
+  description: "Honorable Mention(Top 26%-7%)，Person in charge"
   organization: COMAP & MCM/ICM
   organization_url: https://www.comap.com/undergraduate/contests/
   title: Mathematical Contest of Modeling
