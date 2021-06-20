@@ -16,11 +16,10 @@ organizations:
 - name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/
 
-bio: My research interests include Data-Driven Modeling, Representation Learning, Perception of Robotics & Autonomous Driving,  Cyber-Physical Systems.
+bio: My research interests include Machine Learning, Perception of Robotics & Autonomous Driving,  Cyber-Physical Systems.
 
 interests:
-- Data-Driven Modeling
-- Representation Learning
+- Machine Learning
 - Perception of Robotics & Autonomous Vehicles
 - Cyber-Physical Systems
 
@@ -66,7 +65,7 @@ highlight_name: false
 
 I’m CHEN Xiao, currently a junior undergraduate at [Zhejiang University](https://www.zju.edu.cn/). In my freshman year, I was elected to Advanced Honor Class of Engineering Education (40 among 4000+ students majoring in Science and Engineering, providing special courses and scientific research training) at Chu-Kochen Honors College.
 
- I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Industrial Data-driven Modeling**, **Representation Learning** and **Multi-modal industrial sensing fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include Soft-sensing, Fault Diagnosis and Root Cause Inference, etc.
+ I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Data-driven Modeling**, **Representation Learning** and **Multi-modal industrial sensing fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include Soft-sensing, Fault Diagnosis and Root Cause Inference, etc.
 
-{{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check my [CV](https://drive.google.com/file/d/1Y39QXHeyUXA4Vvso444q_0B2jlTET981/view?usp=sharing) for further information.
+{{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check my [CV](https://drive.google.com/file/d/1KgrzQEW5cu7kkIhFZbePQhqrzUfJlViH/view?usp=sharing) for further information.
 
