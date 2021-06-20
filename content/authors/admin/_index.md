@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CHEN Xiao
+title: Xiao Chen
 
 # Is this the primary user of the site?
 superuser: true
@@ -63,7 +63,7 @@ email: "3180100449@zju.edu.cn"
 highlight_name: false
 ---
 
-I’m CHEN Xiao, currently a junior undergraduate at [Zhejiang University](https://www.zju.edu.cn/). In my freshman year, I was elected to Advanced Honor Class of Engineering Education (40 among 4000+ students majoring in Science and Engineering, providing special courses and scientific research training) at Chu-Kochen Honors College.
+I’m Xiao Chen, currently a junior undergraduate at [Zhejiang University](https://www.zju.edu.cn/). In my freshman year, I was elected to Advanced Honor Class of Engineering Education (40 among 4000+ students majoring in Science and Engineering, providing special courses and scientific research training) at Chu-Kochen Honors College.
 
  I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Data-driven Modeling**, **Representation Learning** and **Multi-modal industrial sensing fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include Soft-sensing, Fault Diagnosis and Root Cause Inference, etc.
 
