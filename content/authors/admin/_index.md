@@ -16,11 +16,12 @@ organizations:
 - name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/
 
-bio: My research interests include Machine Learning, Perception of Robotics & Autonomous Driving,  Cyber-Physical Systems.
+bio: My research interests include Machine Learning, Pattern Recognition, Learning-based Perception and Planning for Robotics & Autonomous Vehicles,  Cyber-Physical Systems.
 
 interests:
 - Machine Learning
-- Perception of Robotics & Autonomous Vehicles
+- Pattern Recognition
+- Learning-based Perception and Planning for Robotics
 - Cyber-Physical Systems
 
 
