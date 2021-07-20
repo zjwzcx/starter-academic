@@ -8,7 +8,7 @@ subtitle:
 
 ---
 
-I have earned 157 credits (first five semesters), which exceeds my graduation requirement. The mind map below shows my curriculum structure, which I think will let you know more about my professional field and personal interests.
+I have earned 193.5 credits, 30 credits beyond my graduation requirement. The mind map below shows my curriculum structure, which I think may let you know more about my professional skills and personal interests.
 
-{{< figure src="major2.png" caption="Fig. Curriculum Structure"  align="center">}}
+{{< figure src="major3.png" caption="Fig. Curriculum Structure"  align="center">}}
 
