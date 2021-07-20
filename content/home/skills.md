@@ -19,7 +19,7 @@ feature:
     icon_pack: fab
     name: Python
 
-  - description: Including Feature Engineering, Representation Learning, Deep Learning, etc.
+  - description: Including Feature Engineering, Representation Learning(Deep Learning), etc.
     icon: chart-line
     icon_pack: fas
     name: Machine Learning
