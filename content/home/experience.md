@@ -37,7 +37,7 @@ experience:
     date_start: '2020-02-01'
     date_end: '2020-06-01'
     description: |2-
-        To desing a mobile robot with SLAM function, my works focus on:
+        To design a mobile robot with SLAM function, my works focus on:
         
         * Navigation
         * Localization (Position & Pose Estimation)
