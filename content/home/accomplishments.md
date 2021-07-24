@@ -42,7 +42,7 @@ item:
 - certificate_url: 
   date_end: "2020-02-14"
   date_start: "2020-02-18"
-  description: "Honorable Mention(Top 26%-7%)，Person in charge"
+  description: "Honorable Mention(Top 26%-7%)，person in charge"
   organization: COMAP & MCM/ICM
   organization_url: https://www.comap.com/undergraduate/contests/
   title: Mathematical Contest of Modeling
@@ -63,7 +63,7 @@ item:
   # certificate_url: https://www.datacamp.com
   date_end: "2018-08-26"
   date_start: "2019-07-01"
-  description: "Top 3%"
+  description: "Top 3% among all the 6,000 undergraduates per year."
   organization: Zhejiang University
   organization_url: http://www.zju.edu.cn/
   title: 'First-Class Scholarship for Academic Excellence'
