@@ -16,13 +16,15 @@ organizations:
 - name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/
 
-bio: My research interests include Machine Learning, Pattern Recognition(Self-supervised Learning), Learning-based Perception and Planning for Robotics & Autonomous Vehicles,  Cyber-Physical Systems.
+bio: My research interests include Unsupervised Representation Learning, Data-driven Modeling and Perception of Robotics and Autonomous Vehicles.
+# Machine Learning, Pattern Recognition(Self-supervised Learning), Learning-based Perception 
+# and Planning for Robotics & Autonomous Vehicles,  Cyber-Physical Systems.
 
 interests:
-- Machine Learning
-- Pattern Recognition
-- Learning-based Perception and Planning for Robotics
-- Cyber-Physical Systems
+- Unsupervised Representation Learning
+- Data-driven Modeling
+- Perception of Robotics and Autonomous Vehicles
+# - Cyber-Physical Systems
 
 
 education:
@@ -68,5 +70,5 @@ I’m Xiao Chen, currently a junior undergraduate at [Zhejiang University](https
 
  I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Pattern Recognition**, **Representation Learning** and **Multi-modal Information Fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include data-driven modeling, like Soft-sensing, Fault Diagnosis and Root Cause Inference, etc.
 
-{{< icon name="download" pack="fas" >}} I am applying for a Ph.D./MS program this fall. You may check my [CV](https://drive.google.com/file/d/1KgrzQEW5cu7kkIhFZbePQhqrzUfJlViH/view?usp=sharing) for further information.
+{{< icon name="download" pack="fas" >}} **I am applying for a Ph.D./M.Phil. program (Fall 2022). You may check my [CV](https://drive.google.com/file/d/11MZ2fCa-A4rLXNCvlNYoBbG2FnX7fjyx/view?usp=sharing) for further information.**
 
