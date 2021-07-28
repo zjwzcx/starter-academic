@@ -8,7 +8,9 @@ subtitle:
 
 ---
 
-I have earned 193.5 credits, 30 credits beyond my graduation requirement. The mind map below shows my curriculum structure, which I think may let you know more about my professional skills and personal interests.
+I have earned 193.5 credits, 30+ credits beyond my graduation requirement. Figure 1 and Figure 2 below shows my curriculum structure and standard curriculum structure of my major, which I think may bring you more information about my professional skills, self-development plans and personal interests.
 
-{{< figure src="major3.png" caption="Fig. Curriculum Structure"  align="center">}}
+{{< figure src="major3.png" caption="Figure 1. My Curriculum Structure"  align="center">}}
+
+{{< figure src="major4.png" caption="Figure 2. Biosystems"  align="center">}}
 
