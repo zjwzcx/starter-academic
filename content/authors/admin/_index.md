@@ -32,8 +32,8 @@ education:
   - course: BSc in Biosystems Engineering
     institution: Zhejiang University
     year: 2018-
-  - course: Science Development Class
-    institution: Cangnan Middle School，Zhejiang Province
+  - course: Advanced Class of Science
+    institution: Cangnan Middle School, Zhejiang Province
     year: 2015-2018
 
 # Social/Academic Networking
@@ -70,5 +70,5 @@ I’m Xiao Chen, currently a junior undergraduate at [Zhejiang University](https
 
  I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Pattern Recognition**, **Representation Learning** and **Multi-modal Information Fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include data-driven modeling, like Soft-sensing, Fault Diagnosis and Root Cause Inference, etc.
 
-{{< icon name="download" pack="fas" >}} **I am applying for a Ph.D./M.Phil. program (Fall 2022). You may check my [CV](https://drive.google.com/file/d/11MZ2fCa-A4rLXNCvlNYoBbG2FnX7fjyx/view?usp=sharing) for further information.**
+{{< icon name="download" pack="fas" >}} **I am applying for a Ph.D./M.Phil. program (Fall 2022). You may check my [CV](https://drive.google.com/file/d/1Jw70ZMf-TzQNYifZ4g9jzeT-2KEjDTZ4/view?usp=sharing) for further information.**
 
