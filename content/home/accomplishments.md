@@ -4,8 +4,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-# title: 'Accomplish&shy;ments'
-title: 'Accomplishment'
+title: 'Accomplishments'
 subtitle:
 
 # Date format
@@ -34,7 +33,7 @@ item:
   date_end: ""
   date_start: "2020-11-01"
   description: "3rd Prize"
-  organization: Zhejiang University
+  organization: Chinese Mathematical Society
   organization_url: http://www.cms.org.cn/
   title: '12th National College Student Mathematics Competition'
   url: ""
@@ -68,4 +67,18 @@ item:
   organization_url: http://www.zju.edu.cn/
   title: 'First-Class Scholarship for Academic Excellence'
   url: ""
+
+- certificate_url: 
+  date_end: "2019-08-26"
+  date_start: "2020-07-01"
+  description: "5 Excellence undergraduates among my College."
+  organization: Zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: 'Wisdom Enlightenment Scholarship'
+  url: ""
 ---
+
+
+
+
+

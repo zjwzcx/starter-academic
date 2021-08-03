@@ -2,7 +2,7 @@
 widget: accomplishments
 widget_id: RECENT-POSTS
 headless: true
-weight: 48
+weight: 38
 title: Curriculum Structure
 subtitle: 
 
@@ -12,5 +12,5 @@ I have earned **193.5 credits**, 30+ credits beyond my graduation requirement. F
 
 {{< figure src="major3.png" caption="Figure 1. My Curriculum Structure"  align="center">}}
 
-{{< figure src="major4.png" caption="Figure 2. Biosystems"  align="center">}}
+{{< figure src="major4.png" caption="Figure 2. Biosystems Engineering"  align="center">}}
 
