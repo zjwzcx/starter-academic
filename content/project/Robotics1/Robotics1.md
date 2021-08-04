@@ -1,11 +1,10 @@
 ---
-title: Simultaneous Localization and Mapping of Robots Based on Feature Tracking
+title: Autonomous Localization and Navigation for Wheeled Mobile Robots
 
 summary: Ubuntu 16.04, ROS（Gazebo, Rviz), Python
 
 tags:
 - Robotics	# correspond with "projects.md"
-# - Planning, Localization and Mapping
 
 date: "2016-04-27T00:00:00Z"
 
@@ -93,6 +92,6 @@ Ubuntu16.04​, ROS (Kinetic)，使用编程语言为Python。
 
 
 
-EKF-SLAM部分过程（视频经过倍速处理）如下：
+SLAM部分过程（视频经过倍速处理）如下：
 
 {{< video src="slam.mp4" width="320" height="240" controls=controls" >}}
