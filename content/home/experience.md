@@ -17,12 +17,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Research Assistant (Online, affected by COVID-19)
+    company: Department of Electrical and Computer Science, The University of British Columbia
+    company_url: ''
+    location: Hangzhou, Zhejiang Province
+    date_start: '2021-07-15'
+    date_end: ''
+    description: Research on Unsupervised Representation Learning.
+
   - title: Research Assistant
     company: State Key Laboratory of Industrial Control Technology, Zhejiang University
     company_url: ''
     location: Hangzhou, Zhejiang Province
     date_start: '2020-06-01'
-    date_end: ''
+    date_end: '2021-06-01'
     description: |2-
         Participate in group meetings and scientific research on industrial data-driven modeling. The main research areas include:
         * Industrial Fault Monitoring
