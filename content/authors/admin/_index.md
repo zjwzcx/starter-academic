@@ -10,26 +10,26 @@ role: Junior Undergraduate
 
 organizations:
 - name: Zhejiang University
-  url: http://www.zju.edu.cn/
+  url: https://www.zju.edu.cn/english/
 - name: Dept. of Biosystems Engineering
-  url: http://www.caefs.zju.edu.cn/
+  url: http://www.caefs.zju.edu.cn/english/
 - name: Chu-Kochen Honors College
-  url: http://ckc.zju.edu.cn/
+  url: http://ckc.zju.edu.cn/ckcen/main.htm
 
-bio: My research interests include Unsupervised Representation Learning, Data-driven Modeling and Perception of Robotics and Autonomous Vehicles.
+bio: My research interests include Unsupervised Representation Learning, Data-driven Modeling and Perception and Control of Robotics.
 # Machine Learning, Pattern Recognition(Self-supervised Learning), Learning-based Perception 
 # and Planning for Robotics & Autonomous Vehicles,  Cyber-Physical Systems.
 
 interests:
 - Unsupervised Representation Learning
 - Data-driven Modeling
-- Perception of Robotics and Autonomous Vehicles
+- Perception and Control of Robotics
 # - Cyber-Physical Systems
 
 
 education:
   courses:
-  - course: BSc in Biosystems Engineering
+  - course: B.Eng. in Biosystems Engineering
     institution: Zhejiang University
     year: 2018-
   - course: Advanced Class of Science
@@ -66,9 +66,9 @@ email: "3180100449@zju.edu.cn"
 highlight_name: false
 ---
 
-I’m Xiao Chen, currently a junior undergraduate at [Zhejiang University](https://www.zju.edu.cn/). In my freshman year, I was elected to Advanced Honor Class of Engineering Education (40 among 4000+ students majoring in Science and Engineering, providing special courses and scientific research training) at Chu-Kochen Honors College.
+I’m Xiao Chen, currently a senior undergraduate at [**Zhejiang University**](https://www.zju.edu.cn/english/). In my freshman year, I was elected to Advanced Honor Class of Engineering Education (40 among 4000+ students majoring in STEM fields, providing special courses and research training) at [**Chu Kochen Honors College**](http://ckc.zju.edu.cn/ckcen/main.htm).
 
- I’ve been advised by Prof. [Chunhui Zhao](https://person.zju.edu.cn/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Pattern Recognition**, **Representation Learning** and **Multi-modal Information Fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include data-driven modeling, like Soft-sensing, Fault Diagnosis and Root Cause Inference, etc.
+ I’ve been advised by Prof. [**Chunhui Zhao**](https://person.zju.edu.cn/en/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Pattern Recognition**, **Representation Learning** and **Multi-sensor Information Fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include data-driven modeling, like Soft-sensing, Fault Diagnosis and Root Cause Inference.
 
-{{< icon name="download" pack="fas" >}} **I am applying for a Ph.D./M.Phil. program (Fall 2022). You may check my [CV](https://drive.google.com/file/d/1Jw70ZMf-TzQNYifZ4g9jzeT-2KEjDTZ4/view?usp=sharing) for further information.**
+{{< icon name="download" pack="fas" >}} I am applying for a **Ph.D./M.Phil.** (Fall 2022). You may check **my [CV](https://drive.google.com/file/d/1Jw70ZMf-TzQNYifZ4g9jzeT-2KEjDTZ4/view?usp=sharing)** for further information.
 
