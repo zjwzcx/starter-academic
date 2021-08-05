@@ -70,5 +70,5 @@ I’m Xiao Chen, currently a senior undergraduate at [**Zhejiang University**](h
 
  I’ve been advised by Prof. [**Chunhui Zhao**](https://person.zju.edu.cn/en/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Pattern Recognition**, **Representation Learning** and **Multi-sensor Information Fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include data-driven modeling, like Soft-sensing, Fault Diagnosis and Root Cause Inference.
 
-{{< icon name="download" pack="fas" >}} I am applying for a **Ph.D./M.Phil.** (Fall 2022). You may check **my [CV](https://drive.google.com/file/d/1Jw70ZMf-TzQNYifZ4g9jzeT-2KEjDTZ4/view?usp=sharing)** for further information.
+{{< icon name="download" pack="fas" >}} I am applying for a **Ph.D./M.Phil.** (Fall 2022). You may check **my [CV](https://drive.google.com/file/d/1IlCl_GRiPt3THxyfQrl1hioxAl_c3jUw/view?usp=sharing)** for further information.
 
