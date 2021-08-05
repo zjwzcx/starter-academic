@@ -24,13 +24,15 @@ interests:
 - Unsupervised Representation Learning
 - Data-driven Modeling
 - Perception and Control of Robotics
-# - Cyber-Physical Systems
 
 
 education:
   courses:
   - course: B.Eng. in Biosystems Engineering
     institution: Zhejiang University
+    year: 2018-
+  - course: Honours Degree
+    institution: Chu Kochen Honors College
     year: 2018-
   - course: Advanced Class of Science
     institution: Cangnan Middle School, Zhejiang Province
@@ -66,7 +68,7 @@ email: "3180100449@zju.edu.cn"
 highlight_name: false
 ---
 
-I’m Xiao Chen, currently a senior undergraduate at [**Zhejiang University**](https://www.zju.edu.cn/english/). In my freshman year, I was elected to Advanced Honor Class of Engineering Education (40 among 4000+ students majoring in STEM fields, providing special courses and research training) at [**Chu Kochen Honors College**](http://ckc.zju.edu.cn/ckcen/main.htm).
+I’m Xiao Chen, currently a senior undergraduate at [**Zhejiang University**](https://www.zju.edu.cn/english/). In my freshman year, I was elected to **Advanced Honor Class of Engineering Education** (40 among 4000+ students majoring in STEM fields, providing special courses and research training) at [**Chu Kochen Honors College**](http://ckc.zju.edu.cn/ckcen/main.htm).
 
  I’ve been advised by Prof. [**Chunhui Zhao**](https://person.zju.edu.cn/en/chhzhao/)  since July 2020 at State Key Laboratory of Industrial Control Technology, Zhejiang University, where I focus on **Pattern Recognition**, **Representation Learning** and **Multi-sensor Information Fusion** with Signal Processing and Machine Learning methods like PCA, SFA and Deep Neural Networks. Our tasks include data-driven modeling, like Soft-sensing, Fault Diagnosis and Root Cause Inference.
 
