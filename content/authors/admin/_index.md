@@ -30,10 +30,10 @@ education:
   courses:
   - course: B.Eng. in Biosystems Engineering
     institution: Zhejiang University
-    year: 2018-
+    year: 2018-2022(expected)
   - course: Honours Degree
-    institution: Chu Kochen Honors College
-    year: 2018-
+    institution: Chu Kochen Honors College, Zhejiang University
+    year: 2018-2022(expected)
   - course: Advanced Class of Science
     institution: Cangnan Middle School, Zhejiang Province
     year: 2015-2018
