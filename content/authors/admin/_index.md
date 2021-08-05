@@ -6,7 +6,7 @@ title: Xiao Chen
 superuser: true
 
 # Role/position/tagline
-role: Junior Undergraduate
+role: Senior Undergraduate
 
 organizations:
 - name: Zhejiang University
@@ -28,12 +28,10 @@ interests:
 
 education:
   courses:
-  - course: B.Eng. in Biosystems Engineering
+  - course: B.Eng. in Biosystems Engineering(Honours Degree)
     institution: Zhejiang University
     year: 2018-2022(expected)
-  - course: Honours Degree
-    institution: Chu Kochen Honors College, Zhejiang University
-    year: 2018-2022(expected)
+
   - course: Advanced Class of Science
     institution: Cangnan Middle School, Zhejiang Province
     year: 2015-2018
