@@ -6,7 +6,7 @@ title: Xiao Chen
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergraduate
+role: Senior Undergraduate, ZJU
 
 organizations:
 - name: Zhejiang University
