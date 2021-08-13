@@ -12,5 +12,5 @@ I have earned **193.5 credits**, 30+ credits beyond my graduation requirement. F
 
 {{< figure src="major5.png" caption="Figure 1. My Curriculum Structure"  align="center">}}
 
-{{< figure src="major4.png" caption="Figure 2. Biosystems Engineering"  align="center">}}
+{{< figure src="major6.png" caption="Figure 2. Biosystems Engineering"  align="center">}}
 
