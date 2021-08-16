@@ -47,9 +47,11 @@ experience:
     description: |2-
         To design a mobile robot with SLAM function, my works focus on:
         
-        * Navigation
-        * Localization (Position & Pose Estimation)
-        * EKF-SLAM
+        * Mapping
+        * Localization
+        * Motion Planning
+        * Robot Control
+
 
   - title: BBS Administrator
     company: CC98, Zhejiang University
