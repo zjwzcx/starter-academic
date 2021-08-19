@@ -34,6 +34,9 @@ content:
   #- name: Data-driven modeling
   #  tag: Data-driven modeling
 
+  #- name: Representation Learning
+  #  tag: Representation Learning
+
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

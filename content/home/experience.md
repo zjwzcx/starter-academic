@@ -36,22 +36,6 @@ experience:
         * Industrial Fault Monitoring
         * Cause Root Diagnosis
         * Soft-sensing
-        
-
-  - title: Research Assistant (Online, affected by COVID-19)
-    company: Institute of Intelligent Systems and Control, Zhejiang University
-    company_url: ''
-    location: My home in Wenzhou, Zhejiang Province
-    date_start: '2020-02-01'
-    date_end: '2020-06-01'
-    description: |2-
-        To design a mobile robot with SLAM function, my works focus on:
-        
-        * Mapping
-        * Localization
-        * Motion Planning
-        * Robot Control
-
 
   - title: BBS Administrator
     company: CC98, Zhejiang University
