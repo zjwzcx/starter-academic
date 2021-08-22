@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: B.Eng. in Biosystems Engineering(Honours Degree)
+  - course: B.S. in Biosystems Engineering(Honours Degree)
     institution: Zhejiang University
     year: 2018-2022(expected)
 
