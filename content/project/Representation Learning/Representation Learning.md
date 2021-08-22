@@ -33,9 +33,19 @@ url_video: ""
 slides: example                       
 ---
 
+（To be continued.）
+
 **Advisor:**
 
 [ Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), Department of Electrical and Computer Engineering, The University of British Columbia
+
+
+
+**Collaborator:**
+
+- Tao Huang, ShanghaiTech (BTW, he is my roommate in high school , who will be a Ph.D. candidate of Prof. Qi Dou, CUHK, in 22 Fall)
+
+- Jiachen Wang, ShanghaiTech
 
 
 
