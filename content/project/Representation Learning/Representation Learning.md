@@ -1,10 +1,10 @@
 ---
 title: Towards Task-relevant Visual Representation in Reinforcement Learning via Information Theory
 
-summary: Python (numpy, pandas, Pytorch, etc.)
+summary: Python (numpy, pandas, Pytorch, etc.), Information Theory (Mutual Information, Entropy)
 
 tags:
-- Data-driven Modeling	# correspond with "projects.md"
+- Representation Learning	# correspond with "projects.md"
 
 date: "2016-04-27T00:00:00Z"
 
@@ -39,5 +39,7 @@ slides: example
 
 
 
-[Slice(8.19)][https://drive.google.com/file/d/1ET7uynBKIYUlbMNePjkSQG_zRInD9FyK/view?usp=sharing]
+**Parts of Our Work:**
+
+[Slides(8.19)](https://drive.google.com/file/d/1ET7uynBKIYUlbMNePjkSQG_zRInD9FyK/view?usp=sharing)
 
