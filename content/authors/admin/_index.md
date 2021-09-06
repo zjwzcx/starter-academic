@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao Chen
+title: Xiao CHEN
 
 # Is this the primary user of the site?
 superuser: true
