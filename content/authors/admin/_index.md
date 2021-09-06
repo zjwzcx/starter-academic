@@ -21,9 +21,9 @@ bio: My research interests include Unsupervised Representation Learning, Data-dr
 # and Planning for Robotics & Autonomous Vehicles,  Cyber-Physical Systems.
 
 interests:
-- Unsupervised Representation Learning
+- Representation Learning
 - Data-driven Modeling
-- Perception and Control of Robotics
+- Perception of Robotics
 
 
 education:
