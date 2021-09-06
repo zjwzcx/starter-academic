@@ -42,15 +42,15 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '3180100449@zju.edu.cn'
+# - icon: envelope
+#  icon_pack: fas
+#  link: '3180100449@zju.edu.cn'
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/xiao-chen-3b4a731a0/
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/xiao-chen-3b4a731a0/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
