@@ -6,7 +6,7 @@ title: Xiao CHEN
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergraduate, ZJU
+role: Senior Undergraduate at Zhejiang University
 
 organizations:
 - name: Zhejiang University
@@ -16,7 +16,7 @@ organizations:
 - name: Chu-Kochen Honors College
   url: http://ckc.zju.edu.cn/ckcen/main.htm
 
-bio: My research interests include Unsupervised Representation Learning, Data-driven Modeling, Perception and Control of Robotics.
+bio: My research interests include Visual Representation Learning, Data-driven Modeling, Perception and Control of Robotics.
 # Machine Learning, Pattern Recognition(Self-supervised Learning), Learning-based Perception 
 # and Planning for Robotics & Autonomous Vehicles,  Cyber-Physical Systems.
 
